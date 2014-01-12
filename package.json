@@ -1,0 +1,13 @@
+{
+  "name": "nodeschool-learnyounode",
+  "version": "0.0.0",
+  "description": "Solutions to learnyounode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glen Mailer",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "learnyounode": "~0.4.0"
+  }
+}
