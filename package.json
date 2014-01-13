@@ -8,6 +8,7 @@
   "author": "Glen Mailer",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "learnyounode": "~0.4.0"
+    "learnyounode": "~0.4.0",
+    "bl": "~0.7.0"
   }
 }
