@@ -9,6 +9,8 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "learnyounode": "~0.4.0",
-    "bl": "~0.7.0"
+    "concat-stream": "~1.4.1",
+    "moment": "~2.5.0",
+    "through2-map": "~1.2.1"
   }
 }
